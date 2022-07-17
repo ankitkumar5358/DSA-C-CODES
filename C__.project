@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Project Name="C__" Version="11000" InternalType="">
+  <VirtualDirectory Name="C++">
+    <File Name="test3.c++"/>
+    <File Name="test2.c++"/>
+    <File Name="test.c++"/>
+    <File Name="si.cpp"/>
+    <File Name="linkedlistoperation.c++"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="TCS CHEAT SHEET">
+    <VirtualDirectory Name="ARRAY">
+      <File Name="TCS CHEAT SHEET/ARRAY/test1.cpp"/>
+      <File Name="TCS CHEAT SHEET/ARRAY/smallElement.c++"/>
+      <File Name="TCS CHEAT SHEET/ARRAY/bigElement.c++"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="OS CODE LAKSHAY">
+    <File Name="OS CODE LAKSHAY/test.cpp"/>
+    <File Name="OS CODE LAKSHAY/printorder.c++"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 54 STACK">
+    <File Name="LEC 54 STACK/stack1.c++"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 45- 50 LINKED LIST Q'S LC CN GFG">
+    <File Name="LEC 45- 50 LINKED LIST Q'S LC CN GFG/sort012LL.c++"/>
+    <File Name="LEC 45- 50 LINKED LIST Q'S LC CN GFG/ReverseLinkedRecursion.c++"/>
+    <File Name="LEC 45- 50 LINKED LIST Q'S LC CN GFG/ReverseLinkedList.c++"/>
+    <File Name="LEC 45- 50 LINKED LIST Q'S LC CN GFG/ReverseLinkedKGroup.c++"/>
+    <File Name="LEC 45- 50 LINKED LIST Q'S LC CN GFG/RemoveDupSoretedList.c++"/>
+    <File Name="LEC 45- 50 LINKED LIST Q'S LC CN GFG/PalindromeLinkedList.c++"/>
+    <File Name="LEC 45- 50 LINKED LIST Q'S LC CN GFG/mergeLL.c++"/>
+    <File Name="LEC 45- 50 LINKED LIST Q'S LC CN GFG/IsCircularLinked.c++"/>
+    <File Name="LEC 45- 50 LINKED LIST Q'S LC CN GFG/FindMiddleLinkList.c++"/>
+    <File Name="LEC 45- 50 LINKED LIST Q'S LC CN GFG/Detect&amp;RemoveLoop.c++"/>
+    <File Name="LEC 45- 50 LINKED LIST Q'S LC CN GFG/AddLLOpti2.c++"/>
+    <File Name="LEC 45- 50 LINKED LIST Q'S LC CN GFG/AddLL1.c++"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 44 LINKED LIST">
+    <File Name="LEC 44 LINKED LIST/SinglyLinked.c++"/>
+    <File Name="LEC 44 LINKED LIST/ReverseLinkedList.c++"/>
+    <File Name="LEC 44 LINKED LIST/newLinked.c++"/>
+    <File Name="LEC 44 LINKED LIST/doubleLinkedList.c++"/>
+    <File Name="LEC 44 LINKED LIST/demoLinkedList.c++"/>
+    <File Name="LEC 44 LINKED LIST/circularLinkedList.c++"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 43 OOPS P-2">
+    <File Name="LEC 43 OOPS P-2/singleInher.c++"/>
+    <File Name="LEC 43 OOPS P-2/polymorphism.c++"/>
+    <File Name="LEC 43 OOPS P-2/multipleInher.c++"/>
+    <File Name="LEC 43 OOPS P-2/multilevelInher.c++"/>
+    <File Name="LEC 43 OOPS P-2/interface.c++"/>
+    <File Name="LEC 43 OOPS P-2/inheritance.c++"/>
+    <File Name="LEC 43 OOPS P-2/hybridInher.c++"/>
+    <File Name="LEC 43 OOPS P-2/heirarchicalInher.c++"/>
+    <File Name="LEC 43 OOPS P-2/friendfunc.c++"/>
+    <File Name="LEC 43 OOPS P-2/encapsulated.c++"/>
+    <File Name="LEC 43 OOPS P-2/ambiguityInher.c++"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 42 OOPS">
+    <File Name="LEC 42 OOPS/OOPS.C++"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION">
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/recursionCount.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Recursion D-1.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/recurisonPow.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/recurison.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day6QuickSort.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day5Merge.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day4SelectionSort.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day4ReverseStr.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day4Power.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day4InsertionSort.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day4checkPalindr.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day4BubbleSort.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day3RecurLinearS.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day3RecurBinaryS.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day3RecurBinary.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day3RecurArraySum.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day2RecurSayDigit.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day2RecurHome.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day2RecurFibonac.c++"/>
+    <File Name="LEC 31 - 32 - 33 - 34 - 35 RECURSION/Day2RecurClimb.c++"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 30 KEYWORDS ALL">
+    <File Name="LEC 30 KEYWORDS ALL/macros.c++"/>
+    <File Name="LEC 30 KEYWORDS ALL/globalvar.c++"/>
+    <File Name="LEC 30 KEYWORDS ALL/deafultsArgs.c++"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 29 DY MEM 2D">
+    <File Name="LEC 29 DY MEM 2D/JAGGEDARR.C++"/>
+    <File Name="LEC 29 DY MEM 2D/DYNAMIC2D.C++"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 28 MEM ALLOC">
+    <File Name="LEC 28 MEM ALLOC/syscrash.c++"/>
+    <File Name="LEC 28 MEM ALLOC/staticvsdynamic.c++"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 25 POINTER">
+    <File Name="LEC 25 POINTER/ptr2.c++"/>
+    <File Name="LEC 25 POINTER/ptr.c++"/>
+    <File Name="LEC 25 POINTER/pointerPart-2.cpp"/>
+    <File Name="LEC 25 POINTER/functionPtr.c++"/>
+    <File Name="LEC 25 POINTER/exerciceptr.cpp"/>
+    <File Name="LEC 25 POINTER/doublepointer.c++"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 24 BASIC MATHS">
+    <File Name="LEC 24 BASIC MATHS/fib.c++"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 23 2D ARRAY">
+    <File Name="LEC 23 2D ARRAY/roweiseSum2D.cpp"/>
+    <File Name="LEC 23 2D ARRAY/rotateImage.cpp"/>
+    <File Name="LEC 23 2D ARRAY/largestRowSum.cpp"/>
+    <File Name="LEC 23 2D ARRAY/intro2D.cpp"/>
+    <File Name="LEC 23 2D ARRAY/gcd.cpp"/>
+    <File Name="LEC 23 2D ARRAY/findelem2D.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 22 CH  2D ARR STR">
+    <File Name="LEC 22 CH  2D ARR STR/validPalindrome.cpp"/>
+    <File Name="LEC 22 CH  2D ARR STR/tests.cpp"/>
+    <File Name="LEC 22 CH  2D ARR STR/reverseStrWord2.cpp"/>
+    <File Name="LEC 22 CH  2D ARR STR/maxOccurChar.cpp"/>
+    <File Name="LEC 22 CH  2D ARR STR/introPalindrome.cpp"/>
+    <File Name="LEC 22 CH  2D ARR STR/getLine.cpp"/>
+    <File Name="LEC 22 CH  2D ARR STR/charArr.cpp"/>
+    <File Name="LEC 22 CH  2D ARR STR/ascii.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 21 ARRAY QUESTION -2">
+    <File Name="LEC 21 ARRAY QUESTION -2/RotateArray.cpp"/>
+    <File Name="LEC 21 ARRAY QUESTION -2/MergeSortedInFirst.Cpp"/>
+    <File Name="LEC 21 ARRAY QUESTION -2/linkedList.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 20 - ARRAY QUESTION">
+    <File Name="LEC 20 - ARRAY QUESTION/REVERSEARRAY.CPP"/>
+    <File Name="LEC 20 - ARRAY QUESTION/MOVEZEROS.CPP"/>
+    <File Name="LEC 20 - ARRAY QUESTION/MERGESORTEDARR.CPP"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="LEC 1- 19 ALL">
+    <File Name="LEC 1- 19 ALL/variable&amp;scope.cpp"/>
+    <File Name="LEC 1- 19 ALL/var.c++"/>
+    <File Name="LEC 1- 19 ALL/uniqueKeyArr.cpp"/>
+    <File Name="LEC 1- 19 ALL/uniqueArray.cpp"/>
+    <File Name="LEC 1- 19 ALL/tripleforloop.cpp"/>
+    <File Name="LEC 1- 19 ALL/triangle.cpp"/>
+    <File Name="LEC 1- 19 ALL/totalamount1.cpp"/>
+    <File Name="LEC 1- 19 ALL/totalamount.cpp"/>
+    <File Name="LEC 1- 19 ALL/testnew.cpp"/>
+    <File Name="LEC 1- 19 ALL/test.cpp"/>
+    <File Name="LEC 1- 19 ALL/switch.cpp"/>
+    <File Name="LEC 1- 19 ALL/swapAltTemp.cpp"/>
+    <File Name="LEC 1- 19 ALL/swapaltArray.cpp"/>
+    <File Name="LEC 1- 19 ALL/SumArray.cpp"/>
+    <File Name="LEC 1- 19 ALL/sum.cpp"/>
+    <File Name="LEC 1- 19 ALL/STLVector.cpp"/>
+    <File Name="LEC 1- 19 ALL/STLArray.cpp"/>
+    <File Name="LEC 1- 19 ALL/stackPush.cpp"/>
+    <File Name="LEC 1- 19 ALL/stackPop.cpp"/>
+    <File Name="LEC 1- 19 ALL/sort0_1_2.cpp"/>
+    <File Name="LEC 1- 19 ALL/sort0_1.cpp"/>
+    <File Name="LEC 1- 19 ALL/simplecalc.cpp"/>
+    <File Name="LEC 1- 19 ALL/setbits.cpp"/>
+    <File Name="LEC 1- 19 ALL/selectionSort.cpp"/>
+    <File Name="LEC 1- 19 ALL/reverseInteger.cpp"/>
+    <File Name="LEC 1- 19 ALL/reversednum.cpp"/>
+    <File Name="LEC 1- 19 ALL/ReverseArray.cpp"/>
+    <File Name="LEC 1- 19 ALL/programmiz.cpp"/>
+    <File Name="LEC 1- 19 ALL/prime.cpp"/>
+    <File Name="LEC 1- 19 ALL/practice-level2.cpp"/>
+    <File Name="LEC 1- 19 ALL/practice-level1.cpp"/>
+    <File Name="LEC 1- 19 ALL/Pivot.cpp"/>
+    <File Name="LEC 1- 19 ALL/patterncomplex.cpp"/>
+    <File Name="LEC 1- 19 ALL/pattern2.cpp"/>
+    <File Name="LEC 1- 19 ALL/pattern1.cpp"/>
+    <File Name="LEC 1- 19 ALL/pattern.cpp"/>
+    <File Name="LEC 1- 19 ALL/passbyvalue.cpp"/>
+    <File Name="LEC 1- 19 ALL/output.c++"/>
+    <File Name="LEC 1- 19 ALL/operator.cpp"/>
+    <File Name="LEC 1- 19 ALL/operator&amp;loops.cpp"/>
+    <File Name="LEC 1- 19 ALL/numof1bits.cpp"/>
+    <File Name="LEC 1- 19 ALL/newreverse.cpp"/>
+    <File Name="LEC 1- 19 ALL/new.cpp"/>
+    <File Name="LEC 1- 19 ALL/myprime.cpp"/>
+    <File Name="LEC 1- 19 ALL/mcqs.cpp"/>
+    <File Name="LEC 1- 19 ALL/MaxMin.cpp"/>
+    <File Name="LEC 1- 19 ALL/loopsandcondition.cpp"/>
+    <File Name="LEC 1- 19 ALL/loops.cpp"/>
+    <File Name="LEC 1- 19 ALL/LinearSearch.cpp"/>
+    <File Name="LEC 1- 19 ALL/leetcodeques-1.cpp"/>
+    <File Name="LEC 1- 19 ALL/isPrimeFn.cpp"/>
+    <File Name="LEC 1- 19 ALL/interviewbitQs.cpp"/>
+    <File Name="LEC 1- 19 ALL/insertionSort.cpp"/>
+    <File Name="LEC 1- 19 ALL/hello.cpp"/>
+    <File Name="LEC 1- 19 ALL/funncr.cpp"/>
+    <File Name="LEC 1- 19 ALL/functionstack.cpp"/>
+    <File Name="LEC 1- 19 ALL/functionnew.cpp"/>
+    <File Name="LEC 1- 19 ALL/function1.cpp"/>
+    <File Name="LEC 1- 19 ALL/function.cpp"/>
+    <File Name="LEC 1- 19 ALL/forloopnew.cpp"/>
+    <File Name="LEC 1- 19 ALL/forloop.cpp"/>
+    <File Name="LEC 1- 19 ALL/firstLastPosi.cpp"/>
+    <File Name="LEC 1- 19 ALL/fibonaccifunction.cpp"/>
+    <File Name="LEC 1- 19 ALL/fib.cpp"/>
+    <File Name="LEC 1- 19 ALL/exUniqueOccur.cpp"/>
+    <File Name="LEC 1- 19 ALL/exUnique.cpp"/>
+    <File Name="LEC 1- 19 ALL/exSwapAlt.cpp"/>
+    <File Name="LEC 1- 19 ALL/exSelSort.cpp"/>
+    <File Name="LEC 1- 19 ALL/exRevArr.cpp"/>
+    <File Name="LEC 1- 19 ALL/exLinearSearch.cpp"/>
+    <File Name="LEC 1- 19 ALL/exFindSup.cpp"/>
+    <File Name="LEC 1- 19 ALL/exFindElement.cpp"/>
+    <File Name="LEC 1- 19 ALL/exercise.cpp"/>
+    <File Name="LEC 1- 19 ALL/exampleSum.cpp"/>
+    <File Name="LEC 1- 19 ALL/exampleNew.cpp"/>
+    <File Name="LEC 1- 19 ALL/example2.cpp"/>
+    <File Name="LEC 1- 19 ALL/example.cpp"/>
+    <File Name="LEC 1- 19 ALL/duplicateArr.cpp"/>
+    <File Name="LEC 1- 19 ALL/demo.cpp"/>
+    <File Name="LEC 1- 19 ALL/dec2binary.cpp"/>
+    <File Name="LEC 1- 19 ALL/data.cpp"/>
+    <File Name="LEC 1- 19 ALL/countingfn.cpp"/>
+    <File Name="LEC 1- 19 ALL/conversion.cpp"/>
+    <File Name="LEC 1- 19 ALL/condition.cpp"/>
+    <File Name="LEC 1- 19 ALL/bubbleSort.cpp"/>
+    <File Name="LEC 1- 19 ALL/bitwiseOp.cpp"/>
+    <File Name="LEC 1- 19 ALL/bitwise.cpp"/>
+    <File Name="LEC 1- 19 ALL/binarySearch.cpp"/>
+    <File Name="LEC 1- 19 ALL/binary2dec.cpp"/>
+    <File Name="LEC 1- 19 ALL/bap.cpp"/>
+    <File Name="LEC 1- 19 ALL/ArrayScope.cpp"/>
+    <File Name="LEC 1- 19 ALL/array.cpp"/>
+    <File Name="LEC 1- 19 ALL/ap.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Demo Code">
+    <File Name="Demo Code/demo.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="build">
+    <VirtualDirectory Name="CMakeFiles">
+      <VirtualDirectory Name="3.22.0">
+        <VirtualDirectory Name="CompilerIdCXX">
+          <File Name="build/CMakeFiles/3.22.0/CompilerIdCXX/CMakeCXXCompilerId.cpp"/>
+        </VirtualDirectory>
+        <VirtualDirectory Name="CompilerIdC">
+          <File Name="build/CMakeFiles/3.22.0/CompilerIdC/CMakeCCompilerId.c"/>
+        </VirtualDirectory>
+      </VirtualDirectory>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <Description/>
+  <Dependencies/>
+  <Settings Type="Executable">
+    <GlobalSettings>
+      <Compiler Options="" C_Options="" Assembler="">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="">
+        <LibraryPath Value="."/>
+      </Linker>
+      <ResourceCompiler Options=""/>
+    </GlobalSettings>
+    <Configuration Name="Debug" CompilerType="MinGW ( C:\MinGW\bin\ )" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+      <Compiler Options="-g -Wall" C_Options="" Assembler="" Required="yes" PreCompiledHeader="" PCHInCommandLine="no" PCHFlags="" PCHFlagsPolicy="0">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="-O0" Required="yes">
+        <LibraryPath Value="."/>
+        <LibraryPath Value="Debug"/>
+      </Linker>
+      <ResourceCompiler Options="" Required="no"/>
+      <General OutputFile="$(IntermediateDirectory)/$(ProjectName).exe" IntermediateDirectory="$(ConfigurationName)" Command="$(OutputFile)" CommandArguments="" UseSeparateDebugArgs="no" DebugArguments="" WorkingDirectory="" PauseExecWhenProcTerminates="no" IsGUIProgram="no" IsEnabled="yes"/>
+      <BuildSystem Name="Default"/>
+      <Environment EnvVarSetName="&lt;Use Workspace Settings&gt;" DbgSetName="&lt;Use Global Settings&gt;">
+        <![CDATA[]]>
+      </Environment>
+      <Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="" IsExtended="no">
+        <DebuggerSearchPaths/>
+        <PostConnectCommands/>
+        <StartupCommands/>
+      </Debugger>
+      <PreBuild/>
+      <PostBuild/>
+      <CustomBuild Enabled="no">
+        <RebuildCommand/>
+        <CleanCommand/>
+        <BuildCommand/>
+        <PreprocessFileCommand/>
+        <SingleFileCommand/>
+        <MakefileGenerationCommand/>
+        <ThirdPartyToolName/>
+        <WorkingDirectory/>
+      </CustomBuild>
+      <AdditionalRules>
+        <CustomPostBuild/>
+        <CustomPreBuild/>
+      </AdditionalRules>
+      <Completion EnableCpp11="no" EnableCpp14="no">
+        <ClangCmpFlagsC/>
+        <ClangCmpFlags/>
+        <ClangPP/>
+        <SearchPaths/>
+      </Completion>
+    </Configuration>
+  </Settings>
+</CodeLite_Project>

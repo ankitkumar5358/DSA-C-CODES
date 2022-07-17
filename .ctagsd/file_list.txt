@@ -1,0 +1,191 @@
+F:\C++ Test\C++\build\CMakeFiles\3.22.0\CompilerIdC\CMakeCCompilerId.c
+F:\C++ Test\C++\TCS CHEAT SHEET\ARRAY\bigElement.c++
+F:\C++ Test\C++\TCS CHEAT SHEET\ARRAY\smallElement.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\array.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\bap.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\binarySearch.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\countingfn.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\dec2binary.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\demo.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\duplicateArr.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\exFindSup.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\exLinearSearch.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\data.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\exSelSort.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\exUnique.cpp
+F:\C++ Test\C++\OS CODE LAKSHAY\test.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\ap.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\exUniqueOccur.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\fib.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\forloop.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\function.cpp
+F:\C++ Test\C++\build\CMakeFiles\3.22.0\CompilerIdCXX\CMakeCXXCompilerId.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\function1.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\exSwapAlt.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\functionstack.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\funncr.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\interviewbitQs.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\isPrimeFn.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\LinearSearch.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\loops.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\loopsandcondition.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\newreverse.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\numof1bits.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\operator&loops.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\operator.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\output.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\passbyvalue.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\exRevArr.cpp
+F:\C++ Test\C++\LEC 30 KEYWORDS ALL\macros.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\forloopnew.cpp
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day3RecurBinary.c++
+F:\C++ Test\C++\test.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\exFindElement.cpp
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day2RecurHome.c++
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day2RecurFibonac.c++
+F:\C++ Test\C++\LEC 22 CH  2D ARR STR\introPalindrome.cpp
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day3RecurBinaryS.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\bubbleSort.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\switch.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\leetcodeques-1.cpp
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day4BubbleSort.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\bitwise.cpp
+F:\C++ Test\C++\LEC 45- 50 LINKED LIST Q'S LC CN GFG\IsCircularLinked.c++
+F:\C++ Test\C++\TCS CHEAT SHEET\ARRAY\test1.cpp
+F:\C++ Test\C++\LEC 45- 50 LINKED LIST Q'S LC CN GFG\ReverseLinkedRecursion.c++
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day4ReverseStr.c++
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\recursionCount.c++
+F:\C++ Test\C++\LEC 22 CH  2D ARR STR\getLine.cpp
+F:\C++ Test\C++\LEC 42 OOPS\OOPS.C++
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day6QuickSort.c++
+F:\C++ Test\C++\LEC 44 LINKED LIST\demoLinkedList.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\exampleNew.cpp
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day3RecurLinearS.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\fibonaccifunction.cpp
+F:\C++ Test\C++\LEC 45- 50 LINKED LIST Q'S LC CN GFG\mergeLL.c++
+F:\C++ Test\C++\LEC 22 CH  2D ARR STR\reverseStrWord2.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\uniqueKeyArr.cpp
+F:\C++ Test\C++\LEC 43 OOPS P-2\heirarchicalInher.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\condition.cpp
+F:\C++ Test\C++\LEC 45- 50 LINKED LIST Q'S LC CN GFG\RemoveDupSoretedList.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\var.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\totalamount1.cpp
+F:\C++ Test\C++\LEC 43 OOPS P-2\ambiguityInher.c++
+F:\C++ Test\C++\LEC 45- 50 LINKED LIST Q'S LC CN GFG\ReverseLinkedList.c++
+F:\C++ Test\C++\LEC 22 CH  2D ARR STR\ascii.cpp
+F:\C++ Test\C++\LEC 45- 50 LINKED LIST Q'S LC CN GFG\sort012LL.c++
+F:\C++ Test\C++\LEC 43 OOPS P-2\friendfunc.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\tripleforloop.cpp
+F:\C++ Test\C++\linkedlistoperation.c++
+F:\C++ Test\C++\LEC 22 CH  2D ARR STR\charArr.cpp
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day4Power.c++
+F:\C++ Test\C++\si.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\reverseInteger.cpp
+F:\C++ Test\C++\LEC 30 KEYWORDS ALL\globalvar.c++
+F:\C++ Test\C++\LEC 45- 50 LINKED LIST Q'S LC CN GFG\FindMiddleLinkList.c++
+F:\C++ Test\C++\test2.c++
+F:\C++ Test\C++\LEC 45- 50 LINKED LIST Q'S LC CN GFG\ReverseLinkedKGroup.c++
+F:\C++ Test\C++\LEC 21 ARRAY QUESTION -2\RotateArray.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\hello.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\pattern2.cpp
+F:\C++ Test\C++\test3.c++
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day5Merge.c++
+F:\C++ Test\C++\LEC 23 2D ARRAY\largestRowSum.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\reversednum.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\new.cpp
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day2RecurClimb.c++
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\recurison.c++
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Recursion D-1.c++
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day4SelectionSort.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\patterncomplex.cpp
+F:\C++ Test\C++\LEC 45- 50 LINKED LIST Q'S LC CN GFG\Detect&RemoveLoop.c++
+F:\C++ Test\C++\LEC 44 LINKED LIST\newLinked.c++
+F:\C++ Test\C++\LEC 43 OOPS P-2\hybridInher.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\Pivot.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\example.cpp
+F:\C++ Test\C++\LEC 45- 50 LINKED LIST Q'S LC CN GFG\AddLLOpti2.c++
+F:\C++ Test\C++\LEC 20 - ARRAY QUESTION\MOVEZEROS.CPP
+F:\C++ Test\C++\LEC 1- 19 ALL\insertionSort.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\SumArray.cpp
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day4InsertionSort.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\ArrayScope.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\MaxMin.cpp
+F:\C++ Test\C++\LEC 43 OOPS P-2\interface.c++
+F:\C++ Test\C++\LEC 45- 50 LINKED LIST Q'S LC CN GFG\AddLL1.c++
+F:\C++ Test\C++\OS CODE LAKSHAY\printorder.c++
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day4checkPalindr.c++
+F:\C++ Test\C++\LEC 43 OOPS P-2\multilevelInher.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\ReverseArray.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\binary2dec.cpp
+F:\C++ Test\C++\LEC 25 POINTER\pointerPart-2.cpp
+F:\C++ Test\C++\LEC 43 OOPS P-2\singleInher.c++
+F:\C++ Test\C++\LEC 54 STACK\stack1.c++
+F:\C++ Test\C++\LEC 43 OOPS P-2\polymorphism.c++
+F:\C++ Test\C++\LEC 25 POINTER\exerciceptr.cpp
+F:\C++ Test\C++\LEC 30 KEYWORDS ALL\deafultsArgs.c++
+F:\C++ Test\C++\LEC 29 DY MEM 2D\JAGGEDARR.C++
+F:\C++ Test\C++\LEC 1- 19 ALL\bitwiseOp.cpp
+F:\C++ Test\C++\LEC 29 DY MEM 2D\DYNAMIC2D.C++
+F:\C++ Test\C++\LEC 44 LINKED LIST\ReverseLinkedList.c++
+F:\C++ Test\C++\LEC 28 MEM ALLOC\syscrash.c++
+F:\C++ Test\C++\LEC 28 MEM ALLOC\staticvsdynamic.c++
+F:\C++ Test\C++\LEC 25 POINTER\ptr2.c++
+F:\C++ Test\C++\LEC 25 POINTER\ptr.c++
+F:\C++ Test\C++\LEC 25 POINTER\functionPtr.c++
+F:\C++ Test\C++\LEC 44 LINKED LIST\doubleLinkedList.c++
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day3RecurArraySum.c++
+F:\C++ Test\C++\LEC 20 - ARRAY QUESTION\MERGESORTEDARR.CPP
+F:\C++ Test\C++\LEC 1- 19 ALL\sum.cpp
+F:\C++ Test\C++\LEC 45- 50 LINKED LIST Q'S LC CN GFG\PalindromeLinkedList.c++
+F:\C++ Test\C++\LEC 25 POINTER\doublepointer.c++
+F:\C++ Test\C++\LEC 24 BASIC MATHS\fib.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\example2.cpp
+F:\C++ Test\C++\LEC 23 2D ARRAY\roweiseSum2D.cpp
+F:\C++ Test\C++\LEC 43 OOPS P-2\multipleInher.c++
+F:\C++ Test\C++\LEC 23 2D ARRAY\rotateImage.cpp
+F:\C++ Test\C++\Demo Code\demo.cpp
+F:\C++ Test\C++\LEC 23 2D ARRAY\intro2D.cpp
+F:\C++ Test\C++\LEC 44 LINKED LIST\circularLinkedList.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\sort0_1.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\conversion.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\simplecalc.cpp
+F:\C++ Test\C++\LEC 23 2D ARRAY\gcd.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\uniqueArray.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\practice-level1.cpp
+F:\C++ Test\C++\LEC 23 2D ARRAY\findelem2D.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\firstLastPosi.cpp
+F:\C++ Test\C++\LEC 22 CH  2D ARR STR\validPalindrome.cpp
+F:\C++ Test\C++\LEC 22 CH  2D ARR STR\tests.cpp
+F:\C++ Test\C++\LEC 22 CH  2D ARR STR\maxOccurChar.cpp
+F:\C++ Test\C++\LEC 21 ARRAY QUESTION -2\MergeSortedInFirst.Cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\testnew.cpp
+F:\C++ Test\C++\LEC 44 LINKED LIST\SinglyLinked.c++
+F:\C++ Test\C++\LEC 21 ARRAY QUESTION -2\linkedList.cpp
+F:\C++ Test\C++\LEC 20 - ARRAY QUESTION\REVERSEARRAY.CPP
+F:\C++ Test\C++\LEC 1- 19 ALL\variable&scope.cpp
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\recurisonPow.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\sort0_1_2.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\functionnew.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\totalamount.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\test.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\exampleSum.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\selectionSort.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\swapAltTemp.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\swapaltArray.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\triangle.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\STLVector.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\exercise.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\myprime.cpp
+F:\C++ Test\C++\LEC 43 OOPS P-2\encapsulated.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\STLArray.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\stackPush.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\mcqs.cpp
+F:\C++ Test\C++\LEC 31 - 32 - 33 - 34 - 35 RECURSION\Day2RecurSayDigit.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\stackPop.cpp
+F:\C++ Test\C++\LEC 43 OOPS P-2\inheritance.c++
+F:\C++ Test\C++\LEC 1- 19 ALL\setbits.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\programmiz.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\prime.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\practice-level2.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\pattern1.cpp
+F:\C++ Test\C++\LEC 1- 19 ALL\pattern.cpp

@@ -5,18 +5,5 @@
         "ostream": "cpp",
         "iostream": "cpp",
         "cmath": "cpp"
-    },
-    "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#023259",
-        "activityBar.activeBorder": "#bb0469",
-        "activityBar.background": "#023259",
-        "activityBarBadge.background": "#bb0469",
-        "activityBarBadge.foreground": "#e7e7e7",
-        "sash.hoverBorder": "#023259",
-        "statusBar.background": "#011627",
-        "statusBarItem.hoverBackground": "#023259",
-        "statusBarItem.remoteBackground": "#011627",
-        "titleBar.activeBackground": "#011627",
-        "titleBar.inactiveBackground": "#01162799"
     }
 }

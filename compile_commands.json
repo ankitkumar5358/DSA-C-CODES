@@ -1,0 +1,765 @@
+[{
+  "file": "F:\\C++ Test\\C++\\build\\CMakeFiles\\3.22.0\\CompilerIdC\\CMakeCCompilerId.c",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/gcc.exe -c \"F:\\C++ Test\\C++\\build\\CMakeFiles\\3.22.0\\CompilerIdC\\CMakeCCompilerId.c\" -o \"F:\\C++ Test\\C++\\build\\CMakeFiles\\3.22.0\\CompilerIdC\\CMakeCCompilerId.c\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I."
+ }, {
+  "file": "F:\\C++ Test\\C++\\TCS CHEAT SHEET\\ARRAY\\bigElement.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\TCS CHEAT SHEET\\ARRAY\\bigElement.c++\" -o \"F:\\C++ Test\\C++\\TCS CHEAT SHEET\\ARRAY\\bigElement.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\TCS CHEAT SHEET\\ARRAY\\smallElement.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\TCS CHEAT SHEET\\ARRAY\\smallElement.c++\" -o \"F:\\C++ Test\\C++\\TCS CHEAT SHEET\\ARRAY\\smallElement.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\array.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\array.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\array.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\bap.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\bap.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\bap.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\binarySearch.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\binarySearch.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\binarySearch.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\countingfn.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\countingfn.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\countingfn.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\dec2binary.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\dec2binary.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\dec2binary.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\demo.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\demo.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\demo.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\duplicateArr.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\duplicateArr.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\duplicateArr.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exFindSup.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exFindSup.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exFindSup.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exLinearSearch.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exLinearSearch.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exLinearSearch.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\data.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\data.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\data.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exSelSort.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exSelSort.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exSelSort.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exUnique.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exUnique.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exUnique.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\fib.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\fib.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\fib.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\forloop.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\forloop.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\forloop.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\function.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\function.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\function.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\build\\CMakeFiles\\3.22.0\\CompilerIdCXX\\CMakeCXXCompilerId.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\build\\CMakeFiles\\3.22.0\\CompilerIdCXX\\CMakeCXXCompilerId.cpp\" -o \"F:\\C++ Test\\C++\\build\\CMakeFiles\\3.22.0\\CompilerIdCXX\\CMakeCXXCompilerId.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\function1.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\function1.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\function1.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exSwapAlt.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exSwapAlt.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exSwapAlt.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\functionstack.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\functionstack.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\functionstack.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\funncr.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\funncr.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\funncr.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\interviewbitQs.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\interviewbitQs.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\interviewbitQs.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\isPrimeFn.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\isPrimeFn.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\isPrimeFn.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\LinearSearch.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\LinearSearch.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\LinearSearch.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\loops.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\loops.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\loops.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\loopsandcondition.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\loopsandcondition.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\loopsandcondition.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\newreverse.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\newreverse.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\newreverse.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\numof1bits.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\numof1bits.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\numof1bits.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\operator&loops.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\operator&loops.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\operator&loops.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\operator.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\operator.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\operator.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\output.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\output.c++\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\output.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\passbyvalue.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\passbyvalue.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\passbyvalue.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\pattern.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\pattern.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\pattern.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exRevArr.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exRevArr.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exRevArr.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 30 KEYWORDS ALL\\macros.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 30 KEYWORDS ALL\\macros.c++\" -o \"F:\\C++ Test\\C++\\LEC 30 KEYWORDS ALL\\macros.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\forloopnew.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\forloopnew.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\forloopnew.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day3RecurBinary.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day3RecurBinary.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day3RecurBinary.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\test.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\test.c++\" -o \"F:\\C++ Test\\C++\\test.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exFindElement.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exFindElement.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exFindElement.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day2RecurHome.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day2RecurHome.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day2RecurHome.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day2RecurFibonac.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day2RecurFibonac.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day2RecurFibonac.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\introPalindrome.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\introPalindrome.cpp\" -o \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\introPalindrome.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day3RecurBinaryS.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day3RecurBinaryS.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day3RecurBinaryS.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\bubbleSort.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\bubbleSort.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\bubbleSort.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\switch.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\switch.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\switch.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\leetcodeques-1.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\leetcodeques-1.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\leetcodeques-1.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4BubbleSort.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4BubbleSort.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4BubbleSort.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\bitwise.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\bitwise.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\bitwise.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\IsCircularLinked.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\IsCircularLinked.c++\" -o \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\IsCircularLinked.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\TCS CHEAT SHEET\\ARRAY\\test1.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\TCS CHEAT SHEET\\ARRAY\\test1.cpp\" -o \"F:\\C++ Test\\C++\\TCS CHEAT SHEET\\ARRAY\\test1.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\ReverseLinkedRecursion.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\ReverseLinkedRecursion.c++\" -o \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\ReverseLinkedRecursion.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4ReverseStr.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4ReverseStr.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4ReverseStr.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\recursionCount.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\recursionCount.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\recursionCount.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\getLine.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\getLine.cpp\" -o \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\getLine.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 42 OOPS\\OOPS.C++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 42 OOPS\\OOPS.C++\" -o \"F:\\C++ Test\\C++\\LEC 42 OOPS\\OOPS.C++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day6QuickSort.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day6QuickSort.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day6QuickSort.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\demoLinkedList.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\demoLinkedList.c++\" -o \"F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\demoLinkedList.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exampleNew.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exampleNew.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exampleNew.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day3RecurLinearS.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day3RecurLinearS.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day3RecurLinearS.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\fibonaccifunction.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\fibonaccifunction.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\fibonaccifunction.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\mergeLL.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\mergeLL.c++\" -o \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\mergeLL.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\reverseStrWord2.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\reverseStrWord2.cpp\" -o \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\reverseStrWord2.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\uniqueKeyArr.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\uniqueKeyArr.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\uniqueKeyArr.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\heirarchicalInher.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\heirarchicalInher.c++\" -o \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\heirarchicalInher.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\condition.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\condition.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\condition.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\RemoveDupSoretedList.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\RemoveDupSoretedList.c++\" -o \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\RemoveDupSoretedList.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\var.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\var.c++\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\var.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\totalamount1.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\totalamount1.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\totalamount1.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\ambiguityInher.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\ambiguityInher.c++\" -o \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\ambiguityInher.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\sort012LL.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\sort012LL.c++\" -o \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\sort012LL.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\friendfunc.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\friendfunc.c++\" -o \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\friendfunc.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\ReverseLinkedList.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\ReverseLinkedList.c++\" -o \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\ReverseLinkedList.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\ap.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\ap.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\ap.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exUniqueOccur.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exUniqueOccur.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exUniqueOccur.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\OS CODE LAKSHAY\\test.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\OS CODE LAKSHAY\\test.cpp\" -o \"F:\\C++ Test\\C++\\OS CODE LAKSHAY\\test.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\tripleforloop.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\tripleforloop.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\tripleforloop.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\linkedlistoperation.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\linkedlistoperation.c++\" -o \"F:\\C++ Test\\C++\\linkedlistoperation.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\charArr.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\charArr.cpp\" -o \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\charArr.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4Power.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4Power.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4Power.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\si.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\si.cpp\" -o \"F:\\C++ Test\\C++\\si.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\reverseInteger.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\reverseInteger.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\reverseInteger.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\FindMiddleLinkList.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\FindMiddleLinkList.c++\" -o \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\FindMiddleLinkList.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\test2.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\test2.c++\" -o \"F:\\C++ Test\\C++\\test2.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\ReverseLinkedKGroup.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\ReverseLinkedKGroup.c++\" -o \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\ReverseLinkedKGroup.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 21 ARRAY QUESTION -2\\RotateArray.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 21 ARRAY QUESTION -2\\RotateArray.cpp\" -o \"F:\\C++ Test\\C++\\LEC 21 ARRAY QUESTION -2\\RotateArray.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\hello.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\hello.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\hello.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\pattern2.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\pattern2.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\pattern2.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\test3.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\test3.c++\" -o \"F:\\C++ Test\\C++\\test3.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day5Merge.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day5Merge.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day5Merge.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\largestRowSum.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\largestRowSum.cpp\" -o \"F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\largestRowSum.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\reversednum.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\reversednum.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\reversednum.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\ascii.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\ascii.cpp\" -o \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\ascii.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\new.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\new.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\new.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day2RecurClimb.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day2RecurClimb.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day2RecurClimb.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\recurison.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\recurison.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\recurison.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Recursion D-1.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Recursion D-1.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Recursion D-1.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4SelectionSort.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4SelectionSort.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4SelectionSort.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\patterncomplex.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\patterncomplex.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\patterncomplex.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\Detect&RemoveLoop.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\Detect&RemoveLoop.c++\" -o \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\Detect&RemoveLoop.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\newLinked.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\newLinked.c++\" -o \"F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\newLinked.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\hybridInher.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\hybridInher.c++\" -o \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\hybridInher.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\Pivot.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\Pivot.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\Pivot.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\example.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\example.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\example.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\AddLLOpti2.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\AddLLOpti2.c++\" -o \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\AddLLOpti2.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 20 - ARRAY QUESTION\\MOVEZEROS.CPP",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 20 - ARRAY QUESTION\\MOVEZEROS.CPP\" -o \"F:\\C++ Test\\C++\\LEC 20 - ARRAY QUESTION\\MOVEZEROS.CPP\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\insertionSort.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\insertionSort.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\insertionSort.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\SumArray.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\SumArray.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\SumArray.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4InsertionSort.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4InsertionSort.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4InsertionSort.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4checkPalindr.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4checkPalindr.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day4checkPalindr.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\multilevelInher.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\multilevelInher.c++\" -o \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\multilevelInher.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\ReverseArray.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\ReverseArray.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\ReverseArray.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\ArrayScope.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\ArrayScope.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\ArrayScope.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\MaxMin.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\MaxMin.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\MaxMin.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\interface.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\interface.c++\" -o \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\interface.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\AddLL1.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\AddLL1.c++\" -o \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\AddLL1.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\OS CODE LAKSHAY\\printorder.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\OS CODE LAKSHAY\\printorder.c++\" -o \"F:\\C++ Test\\C++\\OS CODE LAKSHAY\\printorder.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\binary2dec.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\binary2dec.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\binary2dec.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 25 POINTER\\pointerPart-2.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 25 POINTER\\pointerPart-2.cpp\" -o \"F:\\C++ Test\\C++\\LEC 25 POINTER\\pointerPart-2.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\singleInher.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\singleInher.c++\" -o \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\singleInher.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 54 STACK\\stack1.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 54 STACK\\stack1.c++\" -o \"F:\\C++ Test\\C++\\LEC 54 STACK\\stack1.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\polymorphism.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\polymorphism.c++\" -o \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\polymorphism.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 25 POINTER\\exerciceptr.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 25 POINTER\\exerciceptr.cpp\" -o \"F:\\C++ Test\\C++\\LEC 25 POINTER\\exerciceptr.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 30 KEYWORDS ALL\\globalvar.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 30 KEYWORDS ALL\\globalvar.c++\" -o \"F:\\C++ Test\\C++\\LEC 30 KEYWORDS ALL\\globalvar.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 30 KEYWORDS ALL\\deafultsArgs.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 30 KEYWORDS ALL\\deafultsArgs.c++\" -o \"F:\\C++ Test\\C++\\LEC 30 KEYWORDS ALL\\deafultsArgs.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 29 DY MEM 2D\\JAGGEDARR.C++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 29 DY MEM 2D\\JAGGEDARR.C++\" -o \"F:\\C++ Test\\C++\\LEC 29 DY MEM 2D\\JAGGEDARR.C++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\bitwiseOp.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\bitwiseOp.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\bitwiseOp.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 29 DY MEM 2D\\DYNAMIC2D.C++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 29 DY MEM 2D\\DYNAMIC2D.C++\" -o \"F:\\C++ Test\\C++\\LEC 29 DY MEM 2D\\DYNAMIC2D.C++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\ReverseLinkedList.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\ReverseLinkedList.c++\" -o \"F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\ReverseLinkedList.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 28 MEM ALLOC\\syscrash.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 28 MEM ALLOC\\syscrash.c++\" -o \"F:\\C++ Test\\C++\\LEC 28 MEM ALLOC\\syscrash.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 28 MEM ALLOC\\staticvsdynamic.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 28 MEM ALLOC\\staticvsdynamic.c++\" -o \"F:\\C++ Test\\C++\\LEC 28 MEM ALLOC\\staticvsdynamic.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 25 POINTER\\ptr2.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 25 POINTER\\ptr2.c++\" -o \"F:\\C++ Test\\C++\\LEC 25 POINTER\\ptr2.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 25 POINTER\\ptr.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 25 POINTER\\ptr.c++\" -o \"F:\\C++ Test\\C++\\LEC 25 POINTER\\ptr.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 25 POINTER\\functionPtr.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 25 POINTER\\functionPtr.c++\" -o \"F:\\C++ Test\\C++\\LEC 25 POINTER\\functionPtr.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\doubleLinkedList.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\doubleLinkedList.c++\" -o \"F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\doubleLinkedList.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day3RecurArraySum.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day3RecurArraySum.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day3RecurArraySum.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 20 - ARRAY QUESTION\\MERGESORTEDARR.CPP",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 20 - ARRAY QUESTION\\MERGESORTEDARR.CPP\" -o \"F:\\C++ Test\\C++\\LEC 20 - ARRAY QUESTION\\MERGESORTEDARR.CPP\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\sum.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\sum.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\sum.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\PalindromeLinkedList.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\PalindromeLinkedList.c++\" -o \"F:\\C++ Test\\C++\\LEC 45- 50 LINKED LIST Q'S LC CN GFG\\PalindromeLinkedList.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 25 POINTER\\doublepointer.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 25 POINTER\\doublepointer.c++\" -o \"F:\\C++ Test\\C++\\LEC 25 POINTER\\doublepointer.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 24 BASIC MATHS\\fib.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 24 BASIC MATHS\\fib.c++\" -o \"F:\\C++ Test\\C++\\LEC 24 BASIC MATHS\\fib.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\example2.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\example2.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\example2.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\roweiseSum2D.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\roweiseSum2D.cpp\" -o \"F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\roweiseSum2D.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\multipleInher.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\multipleInher.c++\" -o \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\multipleInher.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\rotateImage.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\rotateImage.cpp\" -o \"F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\rotateImage.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\Demo Code\\demo.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\Demo Code\\demo.cpp\" -o \"F:\\C++ Test\\C++\\Demo Code\\demo.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\intro2D.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\intro2D.cpp\" -o \"F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\intro2D.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\circularLinkedList.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\circularLinkedList.c++\" -o \"F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\circularLinkedList.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\sort0_1.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\sort0_1.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\sort0_1.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\conversion.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\conversion.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\conversion.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\simplecalc.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\simplecalc.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\simplecalc.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\gcd.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\gcd.cpp\" -o \"F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\gcd.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\uniqueArray.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\uniqueArray.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\uniqueArray.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\practice-level1.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\practice-level1.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\practice-level1.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\findelem2D.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\findelem2D.cpp\" -o \"F:\\C++ Test\\C++\\LEC 23 2D ARRAY\\findelem2D.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\firstLastPosi.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\firstLastPosi.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\firstLastPosi.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\validPalindrome.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\validPalindrome.cpp\" -o \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\validPalindrome.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\tests.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\tests.cpp\" -o \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\tests.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\maxOccurChar.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\maxOccurChar.cpp\" -o \"F:\\C++ Test\\C++\\LEC 22 CH  2D ARR STR\\maxOccurChar.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 21 ARRAY QUESTION -2\\MergeSortedInFirst.Cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 21 ARRAY QUESTION -2\\MergeSortedInFirst.Cpp\" -o \"F:\\C++ Test\\C++\\LEC 21 ARRAY QUESTION -2\\MergeSortedInFirst.Cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\testnew.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\testnew.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\testnew.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\SinglyLinked.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\SinglyLinked.c++\" -o \"F:\\C++ Test\\C++\\LEC 44 LINKED LIST\\SinglyLinked.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 21 ARRAY QUESTION -2\\linkedList.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 21 ARRAY QUESTION -2\\linkedList.cpp\" -o \"F:\\C++ Test\\C++\\LEC 21 ARRAY QUESTION -2\\linkedList.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 20 - ARRAY QUESTION\\REVERSEARRAY.CPP",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 20 - ARRAY QUESTION\\REVERSEARRAY.CPP\" -o \"F:\\C++ Test\\C++\\LEC 20 - ARRAY QUESTION\\REVERSEARRAY.CPP\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\variable&scope.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\variable&scope.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\variable&scope.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\recurisonPow.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\recurisonPow.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\recurisonPow.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\sort0_1_2.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\sort0_1_2.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\sort0_1_2.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\functionnew.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\functionnew.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\functionnew.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\totalamount.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\totalamount.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\totalamount.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\test.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\test.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\test.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exampleSum.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exampleSum.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exampleSum.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\selectionSort.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\selectionSort.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\selectionSort.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\swapAltTemp.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\swapAltTemp.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\swapAltTemp.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\swapaltArray.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\swapaltArray.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\swapaltArray.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\triangle.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\triangle.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\triangle.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\STLVector.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\STLVector.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\STLVector.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exercise.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exercise.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\exercise.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\myprime.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\myprime.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\myprime.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\encapsulated.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\encapsulated.c++\" -o \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\encapsulated.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\STLArray.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\STLArray.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\STLArray.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\stackPush.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\stackPush.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\stackPush.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\mcqs.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\mcqs.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\mcqs.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day2RecurSayDigit.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day2RecurSayDigit.c++\" -o \"F:\\C++ Test\\C++\\LEC 31 - 32 - 33 - 34 - 35 RECURSION\\Day2RecurSayDigit.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\stackPop.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\stackPop.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\stackPop.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\inheritance.c++",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\inheritance.c++\" -o \"F:\\C++ Test\\C++\\LEC 43 OOPS P-2\\inheritance.c++\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\setbits.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\setbits.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\setbits.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\programmiz.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\programmiz.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\programmiz.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\prime.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\prime.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\prime.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\practice-level2.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\practice-level2.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\practice-level2.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }, {
+  "file": "F:\\C++ Test\\C++\\LEC 1- 19 ALL\\pattern1.cpp",
+  "directory": "F:\\C++ Test\\C++",
+  "command": "C:/MinGW/bin/g++.exe -c \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\pattern1.cpp\" -o \"F:\\C++ Test\\C++\\LEC 1- 19 ALL\\pattern1.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g -Wall"
+ }]
